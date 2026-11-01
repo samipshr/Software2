@@ -1,0 +1,28 @@
+body{
+    background-color:#AAFAF9;
+    font-family:Arial;
+}
+a{
+    text-decoration: none;
+    color:aqua;
+}
+a:hover{
+    text-decoration: underline;
+    color:#FF1C49;
+}
+img{
+    border: 3px solid #FF000F;
+    border-radius: 12px;
+}
+table th,td{
+    border: 1px solid black;
+}
+table{border-collapse: collapse;}
+th, td {padding: 8px 16px;}
+tr:nth-child(even) {
+    background-color: #FF5900;
+}
+ul{
+    list-style-type: none;
+
+}
