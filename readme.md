@@ -19,6 +19,7 @@ as the course material asks. Upload the module folders to users.metropolia.fi an
   - [assignment 8](./js-1-2/assignment-8/assignment-8.html)
   - [assignment 9](./js-1-2/assignment-9/assignment-9.html)
   - [assignment 10](./js-1-2/assignment-10/assignment-10.html)
+  - [assignment 11](./js-1-2/links.txt)
 
 Add notes about any problems or extra features here.
 
@@ -28,7 +29,7 @@ Add notes about any problems or extra features here.
 
 _This list is updated automatically by the Metropolia ICT extension._
 
-### JS modules 1 and 2: Interactive programs and control structures (27 / 30 points)
+### JS modules 1 and 2: Interactive programs and control structures (30 / 30 points)
 
 - 1. Print to the console: ✔ completed, 1/1 test points (`js-1-2/assignment-1/assignment-1.js`)
 - 2. Greeting: ✔ completed, 2/2 test points (`js-1-2/assignment-2/assignment-2.js`)
@@ -40,5 +41,6 @@ _This list is updated automatically by the Metropolia ICT extension._
 - 8. Leap years in a list: ✔ completed, 3/3 test points (`js-1-2/assignment-8/assignment-8.js`)
 - 9. Prime number: ✔ completed, 2/2 test points (`js-1-2/assignment-9/assignment-9.js`)
 - 10. Dice probability by simulation: ✔ completed, 5/5 test points (`js-1-2/assignment-10/assignment-10.js`)
+- 11. Publish, push and submit your links: ✔ completed, 3/3 test points
 
 <!-- metropolia:progress:end -->
