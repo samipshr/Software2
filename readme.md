@@ -31,6 +31,7 @@ as the course material asks. Upload the module folders to users.metropolia.fi an
   - [assignment 8](./js-3/assignment-8/assignment-8.html)
   - [assignment 9](./js-3/assignment-9/assignment-9.html)
   - [assignment 10](./js-3/assignment-10/assignment-10.html)
+  - [assignment 11](./js-3/links.txt)
 
 Add notes about any problems or extra features here.
 
@@ -59,7 +60,7 @@ _This list is updated automatically by the Metropolia ICT extension._
 - 10. Dice probability by simulation: ✔ completed, 5/5 test points (`js-1-2/assignment-10/assignment-10.js`)
 - 11. Publish, push and submit your links: ✔ completed, 3/3 test points
 
-### JS module 3: Arrays and functions (27 / 30 points)
+### JS module 3: Arrays and functions (30 / 30 points)
 
 - 1. Numbers in reverse order: ✔ completed, 2/2 test points (`js-3/assignment-1/assignment-1.js`)
 - 2. Participants in alphabetical order: ✔ completed, 2/2 test points (`js-3/assignment-2/assignment-2.js`)
@@ -71,6 +72,7 @@ _This list is updated automatically by the Metropolia ICT extension._
 - 8. Join strings without join(): ✔ completed, 2/2 test points (`js-3/assignment-8/assignment-8.js`)
 - 9. Even numbers into a new array: ✔ completed, 3/3 test points (`js-3/assignment-9/assignment-9.js`)
 - 10. Voting: ✔ completed, 8/8 test points (`js-3/assignment-10/assignment-10.js`)
+- 11. Publish, push and submit your links: ✔ completed, 3/3 test points
 
 ### JS module 4: DOM and events (0 / 35 points)
 
