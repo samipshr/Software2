@@ -7,7 +7,10 @@ as the course material asks. Upload the module folders to users.metropolia.fi an
 
 ## My links at users.metropolia.fi
 
-- [HTML and CSS](https://users.metropolia.fi/~samipshr/)
+HTML/CSS assignment
+- [HTML and CSS](https://users.metropolia.fi/~samipshr/html-css/)
+- [screenshots](https://users.metropolia.fi/~samipshr/html-css/screenshots.html)
+- [links](./html-css/links.txt)
 - JS modules 1 and 2
   - [assignment 1](./js-1-2/assignment-1/assignment-1.html)
   - [assignment 2](./js-1-2/assignment-2/assignment-2.html)
@@ -41,10 +44,10 @@ Add notes about any problems or extra features here.
 
 _This list is updated automatically by the Metropolia ICT extension._
 
-### HTML and CSS: company website (4.3 / 7 points)
+### HTML and CSS: company website (7 / 7 points)
 
 - 1. Company website: ✔ completed, 4/4 test points (`html-css/index.html`)
-- 3. Publish, push and submit your links: ◐ partially completed, 0.3/3 test points
+- 3. Publish, push and submit your links: ✔ completed, 3/3 test points
 
 ### JS modules 1 and 2: Interactive programs and control structures (30 / 30 points)
 
