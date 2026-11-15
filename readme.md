@@ -47,6 +47,7 @@ HTML/CSS assignment
   - [t9](./js-4/t9/9.html)
   - [t10](./js-4/t10/10.html)
   - [t11](./js-4/t11/11.html)
+  - [link](./js-4/links.txt)
 
 Add notes about any problems or extra features here.
 
@@ -89,7 +90,7 @@ _This list is updated automatically by the Metropolia ICT extension._
 - 10. Voting: ✔ completed, 8/8 test points (`js-3/assignment-10/assignment-10.js`)
 - 11. Publish, push and submit your links: ✔ completed, 3/3 test points
 
-### JS module 4: DOM and events (32.25 / 35 points)
+### JS module 4: DOM and events (35 / 35 points)
 
 - 1. Add a list with innerHTML: ✔ completed, 2/2 test points (`js-4/t1/1.js`)
 - 2. Add a list with createElement(): ✔ completed, 2/2 test points (`js-4/t2/2.js`)
@@ -102,7 +103,7 @@ _This list is updated automatically by the Metropolia ICT extension._
 - 9. Calculator with one field: ✔ completed, 4/4 test points (`js-4/t9/9.js`)
 - 10. Read a form: ✔ completed, 2/2 test points (`js-4/t10/10.js`)
 - 11. Picture cards with a modal: ✔ completed, 6/6 test points (`js-4/t11/11.js`)
-- 12. Publish, push and submit your links: ◐ partially completed, 0.25/3 test points
+- 12. Publish, push and submit your links: ✔ completed, 3/3 test points
 
 ### JS module 5: AJAX (5 / 23 points)
 
