@@ -35,6 +35,18 @@ HTML/CSS assignment
   - [assignment 9](./js-3/assignment-9/assignment-9.html)
   - [assignment 10](./js-3/assignment-10/assignment-10.html)
   - [assignment 11](./js-3/links.txt)
+- JS module 4
+  - [t1](./js-4/t1/1.html)
+  - [t2](./js-4/t2/2.html)
+  - [t3](./js-4/t3/3.html)
+  - [t4](./js-4/t4/4.html)
+  - [t5](./js-4/t5/5.html)
+  - [t6](./js-4/t6/6.html)
+  - [t7](./js-4/t7/7.html)
+  - [t8](./js-4/t8/8.html)
+  - [t9](./js-4/t9/9.html)
+  - [t10](./js-4/t10/10.html)
+  - [t11](./js-4/t11/11.html)
 
 Add notes about any problems or extra features here.
 
@@ -77,9 +89,24 @@ _This list is updated automatically by the Metropolia ICT extension._
 - 10. Voting: ✔ completed, 8/8 test points (`js-3/assignment-10/assignment-10.js`)
 - 11. Publish, push and submit your links: ✔ completed, 3/3 test points
 
-### JS module 4: DOM and events (0 / 35 points)
+### JS module 4: DOM and events (32 / 35 points)
 
-- 10. Read a form: ✘ not completed yet, 0/2 test points (`js-4/t10/10.js`)
-- 11. Picture cards with a modal: ✘ not completed yet, 0/6 test points (`js-4/t11/11.js`)
+- 1. Add a list with innerHTML: ✔ completed, 2/2 test points (`js-4/t1/1.js`)
+- 2. Add a list with createElement(): ✔ completed, 2/2 test points (`js-4/t2/2.js`)
+- 3. A list from an array: ✔ completed, 2/2 test points (`js-4/t3/3.js`)
+- 4. Options from an array of objects: ✔ completed, 2/2 test points (`js-4/t4/4.js`)
+- 5. Picture cards: ✔ completed, 5/5 test points (`js-4/t5/5.js`)
+- 6. Button click: ✔ completed, 1/1 test points (`js-4/t6/6.js`)
+- 7. Hover effect: ✔ completed, 2/2 test points (`js-4/t7/7.js`)
+- 8. Calculator: ✔ completed, 4/4 test points (`js-4/t8/8.js`)
+- 9. Calculator with one field: ✔ completed, 4/4 test points (`js-4/t9/9.js`)
+- 10. Read a form: ✔ completed, 2/2 test points (`js-4/t10/10.js`)
+- 11. Picture cards with a modal: ✔ completed, 6/6 test points (`js-4/t11/11.js`)
+
+### JS module 5: AJAX (5 / 23 points)
+
+- 1. TV series search form: ✔ completed, 2/2 test points (`js-5/assignment-1/assignment-1.html`)
+- 2. Fetch the search results: ✔ completed, 3/3 test points (`js-5/assignment-2/assignment-2.js`)
+- 3. Show the results on the page: ✘ not completed yet, 0/7 test points (`js-5/assignment-3/assignment-3.js`)
 
 <!-- metropolia:progress:end -->

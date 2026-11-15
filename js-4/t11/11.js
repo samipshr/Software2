@@ -94,37 +94,36 @@ const picArray = [
 
 // add your code here
 
-for(const pic of picArray){
-  const img = document.createElement('img'); 
-  img.src = pic.image.medium;
-  img.alt = pic.title;
+for (const pic of picArray) {
+    const img = document.createElement('img'); 
+    img.src = pic.image.medium;
+    img.alt = pic.title;
 
-  const figcaption = document.createElement('figcaption');
-  figcaption.innerText = pic.caption;
+    const figcaption = document.createElement('figcaption');
+    figcaption.innerText = pic.caption;
 
-  const figure = document.createElement('figure');
-  figure.appendChild(img);
-  figure.appendChild(figcaption);
+    const figure = document.createElement('figure');
+    figure.appendChild(img);
+    figure.appendChild(figcaption);
 
-  const h2 = document.createElement(h2);
-  h2.innerText = pic.title;
+    const h2 = document.createElement('h2');
+    h2.innerText = pic.title;
 
-  const p = document.createElement('p');
-  p.innerText = pic.description;
+    const p = document.createElement('p');
+    p.innerText = pic.description;
 
-  const article = document.createElement('article');
-  article.classList.add = 'card';
+    const article = document.createElement('article');
+    article.classList.add('card');
 
-  article.append(h2, figure, p);
-  document.querySelector('#pictures').append(article);
+    article.append(h2, figure, p);
+    document.querySelector('#pictures').append(article);
 
-  article.addEventListener('click', function() {
-    document.querySelector('dialog').showModel();
-    document.querySelector('dialog img').src = pic.image.large;
-    document.querySelector('dialog img').alt = pic.title;
-  })
+    article.addEventListener('click', function() {
+      document.querySelector('dialog').showModal();
+      document.querySelector('dialog img').src = pic.image.large;
+      document.querySelector('dialog img').alt = pic.title;
+    });
 }
-
-document.querySelector('dialog span').addEventListener('click', function(){
-  document.querySelector('dialog').close();
-})
+document.querySelector('dialog span').addEventListener('click', function() {
+    document.querySelector('dialog').close();
+});
