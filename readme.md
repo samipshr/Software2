@@ -12,8 +12,8 @@ HTML/CSS assignment
 - [screenshots](https://users.metropolia.fi/~samipshr/html-css/screenshots.html)
 - [links](./html-css/links.txt)
 - JS modules 1 and 2
-  - [assignment 1](./js-1-2/assignment-1/assignment-1.html)
-  - [assignment 2](./js-1-2/assignment-2/assignment-2.html)
+  - [assignment 1](https://samipshr.github.io/Software2/js-1-2/assignment-1/assignment-1.html)
+  - [assignment 2](https://samipshr.github.io/Software2/js-1-2/assignment-1/assignment-1.html)
   - [assignment 3](./js-1-2/assignment-3/assignment-3.html)
   - [assignment 4](./js-1-2/assignment-4/assignment-4.html)
   - [assignment 5](./js-1-2/assignment-5/assignment-5.html)
