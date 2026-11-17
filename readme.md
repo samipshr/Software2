@@ -22,7 +22,7 @@ HTML/CSS assignment
   - [assignment 8](https://samipshr.github.io/Software2/js-1-2/assignment-8/assignment-8.html)
   - [assignment 9](https://samipshr.github.io/Software2/js-1-2/assignment-9/assignment-9.html)
   - [assignment 10](https://samipshr.github.io/Software2/js-1-2/assignment-10/assignment-10.html)
-  - [assignment 11](https://samipshr.github.io/Software2/js-1-2/assignment-11/links.txt)
+  - [assignment 11](https://samipshr.github.io/Software2/js-1-2/links.txt)
 - JS module 3
   - [assignment 1](https://samipshr.github.io/Software2/js-3/assignment-1/assignment-1.html)
   - [assignment 2](https://samipshr.github.io/Software2/js-3/assignment-2/assignment-2.html)
@@ -34,7 +34,7 @@ HTML/CSS assignment
   - [assignment 8](https://samipshr.github.io/Software2/js-3/assignment-8/assignment-8.html)
   - [assignment 9](https://samipshr.github.io/Software2/js-3/assignment-9/assignment-9.html)
   - [assignment 10](https://samipshr.github.io/Software2/js-3/assignment-10/assignment-10.html)
-  - [assignment 11](https://samipshr.github.io/Software2/js-3/assignment-11/links.txt)
+  - [assignment 11](https://samipshr.github.io/Software2/js-3/links.txt)
 - JS module 4
   - [t1](https://samipshr.github.io/Software2/js-4/t1/1.html)
   - [t2](https://samipshr.github.io/Software2/js-4/t2/2.html)
