@@ -48,7 +48,12 @@ HTML/CSS assignment
   - [t10](https://samipshr.github.io/Software2/js-4/t10/10.html)
   - [t11](https://samipshr.github.io/Software2/js-4/t11/11.html)
   - [link](https://samipshr.github.io/Software2/js-4/links.txt)
-
+- JS module 5
+  - [assigment-1](https://samipshr.github.io/Software2/js-5/assigment-1/assignment-1.html)
+  - [assigment-2](https://samipshr.github.io/Software2/js-5/assigment-2/assignment-2.html)
+  - [assigment-3](https://samipshr.github.io/Software2/js-5/assigment-3/assignment-3.html)
+  - [assigment-4](https://samipshr.github.io/Software2/js-5/assigment-4/assignment-4.html)
+  - [assigment-5](https://samipshr.github.io/Software2/js-5/assigment-5/assignment-5.html)
 Add notes about any problems or extra features here.
 
 <!-- metropolia:progress:start -->
@@ -112,10 +117,12 @@ _This list is updated automatically by the Metropolia ICT extension._
 - 2. English-Finnish dictionary: ✔ completed, 1/1 test points (`flask/`)
 - 3. Add words to the dictionary: ✔ completed, 1/1 test points (`flask/`)
 
-### JS module 5: AJAX (12 / 23 points)
+### JS module 5: AJAX (16 / 23 points)
 
 - 1. TV series search form: ✔ completed, 2/2 test points (`js-5/assignment-1/assignment-1.html`)
 - 2. Fetch the search results: ✔ completed, 3/3 test points (`js-5/assignment-2/assignment-2.js`)
 - 3. Show the results on the page: ✔ completed, 7/7 test points (`js-5/assignment-3/assignment-3.js`)
+- 4. Default image: ✔ completed, 2/2 test points (`js-5/assignment-4/assignment-4.js`)
+- 5. A random Chuck Norris joke: ✔ completed, 2/2 test points (`js-5/assignment-5/assignment-5.js`)
 
 <!-- metropolia:progress:end -->
