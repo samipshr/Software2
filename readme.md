@@ -112,10 +112,10 @@ _This list is updated automatically by the Metropolia ICT extension._
 - 2. English-Finnish dictionary: ✔ completed, 1/1 test points (`flask/`)
 - 3. Add words to the dictionary: ✔ completed, 1/1 test points (`flask/`)
 
-### JS module 5: AJAX (5 / 23 points)
+### JS module 5: AJAX (12 / 23 points)
 
 - 1. TV series search form: ✔ completed, 2/2 test points (`js-5/assignment-1/assignment-1.html`)
 - 2. Fetch the search results: ✔ completed, 3/3 test points (`js-5/assignment-2/assignment-2.js`)
-- 3. Show the results on the page: ✘ not completed yet, 0/7 test points (`js-5/assignment-3/assignment-3.js`)
+- 3. Show the results on the page: ✔ completed, 7/7 test points (`js-5/assignment-3/assignment-3.js`)
 
 <!-- metropolia:progress:end -->
